@@ -7,6 +7,7 @@ cp sxhkdrc ~/.config/sxhkd/sxhkdrc
 mkdir ~/.config/polybar 
 cp config.ini ~/.config/polybar/config.ini
 cp rofi-run.sh ~/.config/rofi-run.sh
+cp config.rasi ~/.config/config.rasi
 reset 
 
 sudo pacman -S bspwm sxhkd polybar dmenu 
