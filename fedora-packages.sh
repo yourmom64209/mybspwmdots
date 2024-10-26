@@ -1,1 +1,1 @@
-sudo dnf install alacritty dmenu neovim firefox -y
+sudo dnf install alacritty dmenu neovim firefox bspwm sxhdrc -y
