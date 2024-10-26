@@ -8,4 +8,8 @@ mkdir ~/.config/polybar
 cp config.ini ~/.config/polybar/config.ini
 reset 
 
-sudo pacman -S bspwm sxhkd polybar dmenu
+sudo pacman -S bspwm sxhkd polybar dmenu 
+echo "complete"
+echo "complete"
+echo "complete"
+reboot
