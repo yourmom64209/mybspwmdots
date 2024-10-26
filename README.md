@@ -1,3 +1,9 @@
+# automatic install
+clone the repo, type ```cd mybspwmdots``` then ```sh ./installer-[yourdisto].sh```
+
+
+# manual install
+
 Put the ```bspwmrc``` file in ```~/.config/bspwm```, if this directory does not exist, create it.
 put the ```config.ini``` file in ```~/.config/polybar```, if this directory does not exist, create it.
 
