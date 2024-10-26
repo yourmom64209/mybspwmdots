@@ -1,1 +1,1 @@
-sudo apt install alacritty dmenu neovim firefox bspwm sxhkd -y
+sudo apt install alacritty dmenu neovim firefox bspwm sxhkd polybar -y
