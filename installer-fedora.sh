@@ -9,4 +9,7 @@ cp config.ini ~/.config/polybar/config.ini
 reset 
 
 sudo dnf install bspwm sxhkd polybar dmenu -y
+echo "complete"
+echo "complete"
+echo "complete"
 reboot
